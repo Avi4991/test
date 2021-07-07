@@ -1,3 +1,4 @@
+// This is main class
 class Sample{
 
     int a=100;;
