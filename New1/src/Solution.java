@@ -4,7 +4,7 @@
 3. i required sum of all number
 
 */
-//this is solution.java
+//this is solution.java..
 
 class Solution{
 public static void main(String[] args) {
