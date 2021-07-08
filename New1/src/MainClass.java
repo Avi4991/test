@@ -1,4 +1,4 @@
-// This is main class
+// This is main class...
 class Sample{
 
     int a=100;;
