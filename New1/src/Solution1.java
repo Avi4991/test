@@ -20,7 +20,7 @@
 43
 
 */
-// some errors are there
+// some errors are there and trying to resolve them
 import java.util.*;
 public class Solution1{
 public static void main(String[] args) {
